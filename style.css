@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+}
+.principal{
+    height: 100vh;
+    background-image: url(netflix14.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: rgb(244, 227, 227);
+    text-decoration: none;
+    font-size: 40px;
+    background-color:transparent;
+    margin-left: 1350px;
+    border: 5px solid;
+    border-color: rgb(255, 2, 2);
+    border-radius: 15px;
+    margin-top: 10%;
+    
+    
+
+}
+.ENTRAR:{
+    position: absolute;
+    margin: 10px;
+}
+.INSCREVA-SE:{
+    position: absolute;
+    margin: 20px;
+}
+.filmes{
+    background-color: rgb(238, 7, 7);
+    margin: auto;
+    text-align: center;
+}
+.titulosfilmes{
+    text-align: justify;
+}
+.descricao{
+    color:white;
+    text-align:center;
+}
+.card_filmes{
+    display: inline-block;
+    width:18%;
+    vertical-align: top;
+    margin: 0% 2%;
+    padding:20px 10px;
+    text-align: center;
+}
+.filmes__img{
+    height: 312px;
+    width: 210px;
+}
+.series{
+    background-color: black;
+    text-align: center;
+
+}
+.titulosseries{
+    color: rgb(252, 252, 252);
+    text-align: justify;
+}
